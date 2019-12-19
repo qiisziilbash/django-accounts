@@ -1,5 +1,5 @@
 venv/
-accounting/media/
-accounting/db.sqlite3
+src/media/
+src/db.sqlite3
 __pycache__/
 .idea/
